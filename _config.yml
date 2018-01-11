@@ -1,8 +1,7 @@
 # Site settings
 title: Aezlo
 email: me@aezlo.com
-url: //athelo.net
-baseurl: '/portfolio'
+url: prt.athelo.net
 description: "Aezlo, to freelance"
 keywords: "aezlo, freelance"
 skills: "Web Developer - Designer"
